@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donation-api", "donation-api\donation-api.csproj", "{8DB316C2-7EFC-4BBB-BA7A-9A4C0BFE1FCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{1EF60C73-0FCA-44B4-8FBF-21FA13D81FFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7B9176DD-EECA-4511-8C0E-CC4938672D98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{2975AA74-01F6-47F7-B748-5A909909C9ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Midleware", "Midleware", "{A3F317A4-1CF4-4241-8733-1B8D73853554}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{7428EE47-9934-42F9-9AC1-22E8D5D61CB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{DC069434-5621-43EE-BC57-32FE0E0F3437}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{BD8C46DD-AE47-48C4-A188-D8BEAFFDCA6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{9C0AEC0C-CD84-4220-8C2A-898A829DD339}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{30F784C8-BA5F-4D65-B7BB-9A22B64F1BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB316C2-7EFC-4BBB-BA7A-9A4C0BFE1FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB316C2-7EFC-4BBB-BA7A-9A4C0BFE1FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB316C2-7EFC-4BBB-BA7A-9A4C0BFE1FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB316C2-7EFC-4BBB-BA7A-9A4C0BFE1FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B9176DD-EECA-4511-8C0E-CC4938672D98} = {A3F317A4-1CF4-4241-8733-1B8D73853554}
+		{2975AA74-01F6-47F7-B748-5A909909C9ED} = {A3F317A4-1CF4-4241-8733-1B8D73853554}
+		{7428EE47-9934-42F9-9AC1-22E8D5D61CB3} = {7B9176DD-EECA-4511-8C0E-CC4938672D98}
+		{DC069434-5621-43EE-BC57-32FE0E0F3437} = {7B9176DD-EECA-4511-8C0E-CC4938672D98}
+		{BD8C46DD-AE47-48C4-A188-D8BEAFFDCA6C} = {7B9176DD-EECA-4511-8C0E-CC4938672D98}
+		{9C0AEC0C-CD84-4220-8C2A-898A829DD339} = {2975AA74-01F6-47F7-B748-5A909909C9ED}
+		{30F784C8-BA5F-4D65-B7BB-9A22B64F1BC5} = {2975AA74-01F6-47F7-B748-5A909909C9ED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0046CBAE-BE45-4696-AB5A-26E68C7888BC}
+	EndGlobalSection
+EndGlobal

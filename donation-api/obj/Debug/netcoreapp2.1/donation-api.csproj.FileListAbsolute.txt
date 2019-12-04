@@ -1,0 +1,14 @@
+C:\projetos\pessoal\Donation\donation-api\donation-api\bin\Debug\netcoreapp2.1\donation-api.deps.json
+C:\projetos\pessoal\Donation\donation-api\donation-api\bin\Debug\netcoreapp2.1\donation-api.runtimeconfig.json
+C:\projetos\pessoal\Donation\donation-api\donation-api\bin\Debug\netcoreapp2.1\donation-api.runtimeconfig.dev.json
+C:\projetos\pessoal\Donation\donation-api\donation-api\bin\Debug\netcoreapp2.1\donation-api.dll
+C:\projetos\pessoal\Donation\donation-api\donation-api\bin\Debug\netcoreapp2.1\donation-api.pdb
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.csproj.CoreCompileInputs.cache
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.RazorAssemblyInfo.cache
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.RazorAssemblyInfo.cs
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.AssemblyInfoInputs.cache
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.AssemblyInfo.cs
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.RazorTargetAssemblyInfo.cache
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.dll
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.pdb
+C:\projetos\pessoal\Donation\donation-api\donation-api\obj\Debug\netcoreapp2.1\donation-api.csprojAssemblyReference.cache
