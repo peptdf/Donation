@@ -6,7 +6,7 @@ namespace donation_api.Controllers
 {
     [Route("api/donation")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class DonationController : ControllerBase
     {
         // GET api/values
         [HttpGet]
